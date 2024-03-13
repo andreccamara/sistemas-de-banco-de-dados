@@ -25,6 +25,6 @@ function subm(){
         senha.classList.add('redBorder')
     }else{ 
         alert("Senha correta! Redirecionando para a página de equipamentos.")
-        window.location.href  = "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley";     
+        window.location.href  = "https://www.youtube.com/watch?v=QDia3e12czc&t=5s";     
     }
 }
